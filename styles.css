@@ -1,0 +1,41 @@
+*{
+    font-family: 'Roboto',sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.header-container{
+    background-color: #1f2937;
+    width: 100%;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+}
+
+.header{
+    border: 2px black solid; /*Border pra debug*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.header p{
+    font-weight: bolder;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-links a{
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 10px;
+    text-decoration: none;
+}
