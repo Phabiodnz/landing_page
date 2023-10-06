@@ -1,0 +1,1 @@
+Essa página é apenas um estudo prático de flexbox e estilização utilizando CSS.
